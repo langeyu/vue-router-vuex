@@ -12,7 +12,7 @@ export default new Router({
     //配置路由和组件之间的应用关系
     routes:[
         {
-            path:"./",
+            path:"/",
             name:'HelloWorld',
             component:HelloWorld
       },{
